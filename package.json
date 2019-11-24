@@ -1,0 +1,24 @@
+{
+  "name": "geo-search",
+  "version": "1.0.0",
+  "description": "Geosearch for weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austainodedon/Geo-Search.git"
+  },
+  "keywords": [
+    "Geosearch",
+    "Andela",
+    "DevC"
+  ],
+  "author": "Augustine Emeka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austainodedon/Geo-Search/issues"
+  },
+  "homepage": "https://github.com/austainodedon/Geo-Search#readme"
+}
